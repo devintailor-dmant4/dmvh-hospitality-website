@@ -1,0 +1,60 @@
+<svg width="520" height="180" viewBox="0 0 520 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="520" height="180" fill="#FDF8F4"/>
+
+  <!-- Hotel Doorway Mark -->
+  <g transform="translate(38, 20)" fill="none">
+    <!-- Arch interior fill -->
+    <path
+      d="M5 108 L5 56 A49 49 0 0 1 103 56 L103 108 Z"
+      fill="#8B4513"
+      opacity="0.11"
+    />
+    <!-- Main door frame -->
+    <path
+      d="M5 108 L5 56 A49 49 0 0 1 103 56 L103 108"
+      stroke="#8B4513"
+      stroke-width="7.5"
+      stroke-linejoin="round"
+      fill="none"
+    />
+    <!-- Floor threshold -->
+    <line x1="0" y1="108" x2="108" y2="108" stroke="#8B4513" stroke-width="6" stroke-linecap="round"/>
+    <!-- Inner arch -->
+    <path
+      d="M22 108 L22 62 A32 32 0 0 1 86 62 L86 108"
+      stroke="#8B4513"
+      stroke-width="3.5"
+      stroke-linejoin="round"
+      fill="none"
+      opacity="0.38"
+    />
+    <!-- Keystone triangle -->
+    <path d="M46 18 L54 4 L62 18 Z" fill="#8B4513" opacity="0.72"/>
+  </g>
+
+  <!-- DMVH wordmark — raised baseline, generous right margin -->
+  <text
+    x="188"
+    y="100"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-weight="700"
+    font-size="50"
+    letter-spacing="10"
+    fill="#2A1A0E"
+  >DMVH</text>
+
+  <!-- Divider rule — sits 22px below DMVH baseline -->
+  <line x1="188" y1="122" x2="212" y2="122" stroke="#8B4513" stroke-width="1.8" opacity="0.65"/>
+
+  <!-- HOSPITALITY — 22px below DMVH, well separated -->
+  <text
+    x="220"
+    y="128"
+    font-family="Arial, Helvetica, sans-serif"
+    font-weight="600"
+    font-size="12"
+    letter-spacing="5"
+    fill="#8B4513"
+  >HOSPITALITY</text>
+</svg>

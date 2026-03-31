@@ -1,0 +1,193 @@
+HOTEL FURNITURE INQUIRY FORM
+
+
+1. Client Information  
+Full Name: _____________________________  
+Company Name (if applicable): ________________________________  
+Phone Number: ________________________________  
+Email Address: ________________________________  
+Project Location (Hotel Name & Address): ________________________________  
+
+---
+
+2. Project Details  
+Total Number of Rooms to Furnish: ____________________  
+
+Room Type(s):  
+
+☐ Standard Room  
+ Number of Rooms: ______  
+ King Beds: ______  
+ Queen Beds: ______  
+ Twin Beds: ______  
+ Extra Beds / Sofa Beds: ______  
+
+☐ Deluxe Room  
+ Number of Rooms: ______  
+ King Beds: ______  
+ Queen Beds: ______  
+ Twin Beds: ______  
+ Extra Beds / Sofa Beds: ______  
+
+☐ Suite  
+ Number of Rooms: ______  
+ King Beds: ______  
+ Queen Beds: ______  
+ Twin Beds: ______  
+ Extra Beds / Sofa Beds: ______  
+
+☐ Other: ____________________  
+ Number of Rooms: ______  
+ King Beds: ______  
+ Queen Beds: ______  
+ Twin Beds: ______  
+ Extra Beds / Sofa Beds: ______  
+
+Project Timeline:  
+Start Date: _______________  
+Completion Date: _______________  
+
+Project Priority:  
+☐ Urgent ☐ Standard ☐ Flexible Timeline  
+
+---
+
+3. Furniture Requirements  
+(Select all that apply and specify quantities)
+
+Bedroom Area:  
+☐ Platform Bed(s): Qty ______ Type: Metal/Wood  
+☐ Headboard(s): Qty ______  
+☐ Nightstand(s): Qty ______  
+☐ Wardrobe/Closet Units: Qty ______  
+☐ Desk/Work Table: Qty ______  
+☐ Full Length Mirror: Qty ______  
+☐ TV Unit/Console: Qty ______  
+☐ Chair(s): Qty ______  
+☐ Sofa/Seating: Qty ______  
+
+Bathroom Accessories:  
+☐ Vanity w/ Quartz Top & Basin: Qty ______  
+☐ Mirror(s): Qty ______ Type: LED / Wood Frame ______  
+☐ Towel Rack(s): Qty ______  
+☐ Shower Door: Qty ______  
+☐ Shower Tray: Qty ______  
+☐ Tub Surround: Qty ______  
+
+Additional Items:  
+☐ Lighting Fixtures: Qty ______  
+☐ Curtains/Blinds: Qty ______  
+☐ Window Valance: Qty ______  
+☐ Other: ________________________________  
+
+---
+
+4. Style & Design Preferences  
+Preferred Style / Franchise (if applicable): ________________________________  
+
+Preferred Color Scheme: ________________________________  
+
+Material Preferences:  
+☐ Wood/MDF Veneer (Paint Finish)  
+☐ Wood/MDF with HPL/LPL Finish  
+☐ Wood/MDF with HPL/LPL + Metal Frame  
+
+Additional Notes: ________________________________  
+
+Design Consultation Required:  
+☐ Yes ☐ No  
+
+---
+
+5. Customization & Branding  
+Custom Furniture Required:  
+☐ Yes ☐ No  
+
+Hotel Branding (logos, colors, themes): ________________________________  
+
+---
+
+6. Pricing & Payment Terms  
+Estimated Project Budget: ________________________________  
+
+Payment Terms:  
+☐ 50% Deposit / 50% Before Shipment  
+☐ 50% Deposit / 50% L/C  
+☐ Other: ____________________  
+
+Preferred Currency:  
+☐ USD ☐ Other: ______  
+
+Payment Method:  
+☐ Bank Transfer (T/T)  
+☐ Letter of Credit (Sight L/C)  
+☐ Other: ____________________  
+
+---
+
+7. Freight & Shipping  
+Shipping Method (Select One):  
+☐ Door-to-Door  
+☐ Factory to Vietnam Port  
+☐ Factory to USA Port  
+
+Destination Port (if applicable): ________________________________  
+
+Customs Clearance Responsibility:  
+☐ Supplier ☐ Client  
+
+---
+
+8. Site Readiness, Warranty & Documentation
+
+Site Readiness:  
+Is the site ready for delivery & installation?  
+☐ Yes ☐ No  
+
+Floor Level:  
+☐ Ground ☐ 2–5 Floors ☐ 5+ Floors  
+
+Elevator Access Available:  
+☐ Yes ☐ No  
+
+Working Hour Restrictions (if any): ________________________________  
+
+---
+
+Warranty Requirements:  
+☐ 1 Year ☐ 3 Years ☐ 5 Years  
+
+After-Sales Support Required:  
+☐ Yes ☐ No  
+
+---
+
+Drawings & Measurements:  
+Will client provide floor plans / drawings?  
+☐ Yes ☐ No  
+
+Measurements Confirmed:  
+☐ Yes ☐ No  
+
+---
+
+9. Delivery & Installation  
+Delivery Required: ☐ Yes ☐ No  
+Installation Required: ☐ Yes ☐ No  
+
+Preferred Delivery Date: ____________________  
+
+Special Instructions:  
+________________________________________________________  
+________________________________________________________  
+
+---
+
+10. Additional Notes or Requests  
+________________________________________________________  
+________________________________________________________  
+________________________________________________________  
+
+---
+
+Thank you for choosing DMVH Hospitality for your hotel furnishing needs!

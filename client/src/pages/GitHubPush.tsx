@@ -75,13 +75,14 @@ export default function GitHubPush() {
       const isNew = mode === "new";
       const repoName = isNew ? newRepoName : selectedRepo.split("/")[1];
       const owner = user!.login;
-      return await apiRequest("POST", "/api/github/push", {
+      const res = await apiRequest("POST", "/api/github/push", {
         owner,
         repo: repoName,
         message: commitMessage,
         createRepo: isNew,
         isPrivate: isNew ? isPrivate : undefined,
       });
+      return await res.json() as PushResult;
     },
     onSuccess: (data: PushResult) => {
       setLastResult(data);
